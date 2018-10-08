@@ -28,6 +28,7 @@ namespace TogglKonsol
             return entries;
         }
 
+        //This is Help function
         public bool ReadHelp(string[] args)
         {
             bool help = false;
